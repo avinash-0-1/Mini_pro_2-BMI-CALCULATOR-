@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(55, 158, 178);
+}
+
+.main {
+    margin-bottom: 15px;
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#result {
+    margin: 15px 0px 0px 60px;
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.instruction {
+    margin-top: 10px;
+    margin: 2px;
+    margin-left: 45%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#height,#weight {
+    margin-bottom: 10px;
+}
+#button {
+    margin-left: 70px;
+}
